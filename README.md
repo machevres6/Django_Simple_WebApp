@@ -9,3 +9,8 @@ I have been doing a series of video lectures on things that I am interested in b
 
 Let's get it! 
 
+I have already created User profiles, automatically create users when someone registers to the website, and a 
+bunch of other cool shit. 
+
+* 04/09/2020:
+    * I'm currently on video 10
