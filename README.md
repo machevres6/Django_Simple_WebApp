@@ -14,3 +14,6 @@ bunch of other cool shit.
 
 * 04/09/2020:
     * I'm currently on video 10
+    
+* 04/15/2020: 
+    * Finished the website, now I'm looking on how to put it in a server and let it run. 
