@@ -5,12 +5,12 @@ on Django.  I have already started and am on video 3 of 17, it is a very long le
 I have been doing a series of video lectures on things that I am interested in because: 
 1. I want to build a better sense of how to read and utilize more than data science libraries in python
 1. I want to get proficient in reading different type of python scripts
-1. I want to build cool shit!!! 
+1. I want to build cool s$%t!!! 
 
 Let's get it! 
 
 I have already created User profiles, automatically create users when someone registers to the website, and a 
-bunch of other cool shit. 
+bunch of other cool features. 
 
 * 04/09/2020:
     * I'm currently on video 10
